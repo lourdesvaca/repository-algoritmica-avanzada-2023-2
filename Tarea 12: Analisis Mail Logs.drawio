@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T18:35:04.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="_4jqfIxMnY76KMwjaaGG" version="22.1.3" type="github">
-  <diagram name="Página-1" id="9AhIQGNdbwji21LzpWhO">
-    <mxGraphModel dx="694" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-11-21T18:56:11.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="LdpmSOdcWlmoYbWiyU0g" version="22.1.3" type="github">
+  <diagram name="DIA tarea12" id="9AhIQGNdbwji21LzpWhO">
+    <mxGraphModel dx="1654" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,6 +153,12 @@
         </mxCell>
         <mxCell id="1y2yaqVMoUYp_FqvQC07-72" value="respuestaDescripcion" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1y2yaqVMoUYp_FqvQC07-69">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1y2yaqVMoUYp_FqvQC07-74" value="De la info que encontré identifique estas dimensiones.&lt;br&gt;las empresas participantes son:&lt;br&gt;- industrias venado&lt;br&gt;- metrocity&lt;br&gt;- laboratorio ifa/ifsa&lt;br&gt;-&amp;nbsp;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="840" width="630" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1y2yaqVMoUYp_FqvQC07-75" value="Fact table: Cantidad de reservas realizadas por medio del cliente/asistente virtual" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="770" width="630" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
